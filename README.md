@@ -21,6 +21,7 @@ Simulation data in `data/multidark` contains measurements made by Hans Winther f
 
 Theory data in `data/theory` contains data files for power spectra computed using ReACT. 
 > [https://github.com/nebblu/ReACT]
+
 It also contains velocity statistics computed using  a private library for ReACT. Please contact Ben Bose for access. 
 
 ## Mathematica notebook:
