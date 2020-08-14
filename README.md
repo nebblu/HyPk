@@ -39,5 +39,3 @@ Also included is a Mathematica notebook (errors.nb) to compute the Gaussian cova
  - jupyter 
  - mcfit (install with `pip install mcfit`)
  - joblib (install with `pip install joblib`)
-
-### Notes on MCFIT: 
