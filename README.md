@@ -25,13 +25,12 @@ Theory data in `data/theory` contains data files for power spectra computed usin
 
 It also contains velocity statistics computed using  a private library for ReACT. Please contact Ben Bose for access. 
 
-## Mathematica notebook:
-
-Also included is a Mathematica notebook (errors.nb) to compute the Gaussian covariance of the redshift space power spectrum multipoles. 
-
 ## Running the Code:
 
 The main code is the Jupyter notebook: `HyPk.ipynb`
+
+Also included is a Mathematica notebook (errors.nb) to compute the Gaussian covariance of the redshift space power spectrum multipoles. 
+
 
 ## Packages Required:
 
