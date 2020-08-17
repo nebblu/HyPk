@@ -1,4 +1,5 @@
 # HyPk
+
 This is the code repository for reproducing the results of the paper:
 *Hybrid P(k): general, unified, non-linear matter power spectrum in redshift space*
 > [https://arxiv.org/abs/1911.04391]
@@ -29,6 +30,8 @@ It also contains velocity statistics computed using  a private library for ReACT
 Also included is a Mathematica notebook (errors.nb) to compute the Gaussian covariance of the redshift space power spectrum multipoles. 
 
 ## Running the Code:
+
+The main code is the Jupyter notebook: `HyPk.ipynb`
 
 ## Packages Required:
 
